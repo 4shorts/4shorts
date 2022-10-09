@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @4shorts
-- 👀 I’m interested in music  
-- 🌱 I’m currently learning to start coding
-- 💞️ I’m looking to collaborate on learning how to code
+- 👀 I’m interested in video games, music, and movies
+- 🌱 I’m a game unity game developer and software engeneer
+- 💞️ I’m looking to collaborate with other game developers
 - 📫 How to reach me fourshortsmusic.jsshort@gmail.com
 
 <!---
